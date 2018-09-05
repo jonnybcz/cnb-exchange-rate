@@ -1,0 +1,33 @@
+# OS Files
+.DS_STORE
+._.DS_STORE
+
+# IDE FILES
+.idea
+.vscode
+
+
+# External sources
+node_modules/
+
+
+process.env
+TODO.md
+npm-debug.log
+
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# log
+robot/log
+
+# generated files
+static/app.css
+
+# docker compose
+.data
+
+# redis
+conf/sentinel.conf
