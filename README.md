@@ -1,5 +1,9 @@
 # czech-daily-course
 
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+
+
 Library can fetch czech daily course from Česká národní banka and return as object.
 
 ## example js
