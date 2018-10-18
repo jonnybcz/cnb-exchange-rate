@@ -1,6 +1,6 @@
 {
   "name": "czech-daily-course",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Czech daily course from czech national bank",
   "main": "index.js",
   "scripts": {
