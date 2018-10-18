@@ -15,7 +15,7 @@ function validateRowDate(row) {
  * @returns {boolean}
  */
 function validateRowCurrency(row) {
-    return /\w+\|\w+\|\d+\|\w+\|\d+(,\d)*/.test(row.trim());
+    return row.split('|').length === 5;
 }
 
 /**
