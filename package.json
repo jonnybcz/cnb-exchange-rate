@@ -1,7 +1,7 @@
 {
-  "name": "czech-daily-course",
-  "version": "1.0.1",
-  "description": "Czech daily course from czech national bank",
+  "name": "cnb-exchange-rate",
+  "version": "1.0.2",
+  "description": "Czech daily exchange rate from czech national bank",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -21,21 +21,23 @@
   "author": "Tomas Pavlacky",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jonnybcz/czech-daily-course/issues"
+    "url": "https://github.com/jonnybcz/cnb-exchange-rate/issues"
   },
   "devDependencies": {
-    "eslint": "^5.5.0",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-loader": "^2.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-react": "^7.11.1",
-    "jest": "^23.5.0"
+    "jest": "^24.8.0"
   },
-  "homepage": "https://github.com/jonnybcz/czech-daily-course#readme",
+  "homepage": "https://github.com/jonnybcz/cnb-exchange-rate#readme",
   "dependencies": {
     "moment": "^2.22.2",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   },
-  "engines" : { "node" : ">=7.6" }
+  "engines": {
+    "node": ">=7.6"
+  }
 }
