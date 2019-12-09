@@ -1,6 +1,6 @@
 {
   "name": "cnb-exchange-rate",
-  "version": "1.0.0-rc.1",
+  "version": "2.0.1",
   "description": "Czech daily exchange rate from czech national bank",
   "main": "index.js",
   "scripts": {
